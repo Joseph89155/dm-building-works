@@ -1,0 +1,7 @@
+{
+  "name": "D.M. Building Works & Renovations",
+  "description": "Professional construction and renovation services based in Nakuru, Kenya, specializing in building works, plumbing, electrical, and consultation.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
